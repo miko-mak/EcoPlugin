@@ -4,7 +4,7 @@ Pollution-points: 0.00
 no_disasters: "&cThere are no disasters."
 disasters_list: "\n &c&lThe list of current disasters \n&7{DISASTERS}\n "
 more_hunger: " - Players can get more hunger than before."
-broken_growth: " \n - Fruits, vegetables and other plants are not growing anymore."
+broken_growth: " \n - Fruits, vegetables and other plants are not growing."
 no_animals: " \n - All of the animals have died."
 polluted_air: " \n - Players without a mask are poisoned by the polluted air."
 
