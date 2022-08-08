@@ -1,0 +1,32 @@
+Pollution-points: 0.00
+
+#messages
+no_disasters: "&cThere are no disasters."
+disasters_list: "\n &c&lThe list of current disasters \n&7{DISASTERS}\n "
+more_hunger: " - Players can get more hunger than before."
+broken_growth: " \n - Fruits, vegetables and other plants are not growing anymore."
+no_animals: " \n - All of the animals have died."
+polluted_air: " \n - Players without a mask are poisoned by the polluted air."
+
+living_conditions: "\n &7The living conditions are: {CONDITIONS}"
+conditions_excellent: "&x&0&0&c&c&2&5Excellent"
+conditions_good: "&x&1&a&e&d&3&dGood"
+conditions_okay: "&eOkay"
+conditions_bad: "&cBad"
+conditions_terrible: "&x&9&c&0&b&1&5Terrible"
+conditions_horrible: "&4Horrible"
+pollution_size: " &7The environment is polluted in: &e{PERCENTAGE}\n "
+
+helmet_take_off: "&cYou have to put your helmet off!"
+invalid_item: "&cYou are not holding a glass block!"
+mask_on: "&aYou have successfully put your mask on."
+
+cannot_play_anymore: "&7You are not able to live here because of the pollution you have made."
+
+#titles and subtitles
+first_title: "&c&lWHAT HAVE YOU DONE?"
+first_subtitle: "&eThe environment is fully damaged!"
+second_title: "&c&lYOUR NEGATIVE ACTIONS"
+second_subtitle: "&eHad an impact on the world..."
+third_title: "&c&lYOU DESERVE"
+third_subtitle: "&eTo live no longer here!"
