@@ -1,0 +1,54 @@
+Pollution-points: 0.00
+
+#messages
+no_disasters: "&cThere are no disasters."
+disasters_list: "\n &c&lThe list of current disasters \n&7{DISASTERS}\n "
+more_hunger: " - Players can get more hunger than before."
+broken_growth: " \n - Fruits, vegetables and other plants are not growing."
+no_animals: " \n - All of the animals and villagers have died."
+polluted_air: " \n - Players without a mask are poisoned by the polluted air."
+
+living_conditions: "\n &7The living conditions are: {CONDITIONS}"
+conditions_excellent: "&x&0&0&c&c&2&5Excellent"
+conditions_good: "&x&1&a&e&d&3&dGood"
+conditions_okay: "&eOkay"
+conditions_bad: "&cBad"
+conditions_terrible: "&x&9&c&0&b&1&5Terrible"
+conditions_horrible: "&4Horrible"
+pollution_size: " &7The environment is polluted in: &e{PERCENTAGE}\n "
+
+helmet_take_off: "&cYou have to put your helmet off!"
+invalid_item: "&cYou are not holding a glass block!"
+mask_on: "&aYou have successfully put your mask on."
+
+cannot_play_anymore: "&7You are not able to live here because of the pollution you have made."
+
+#titles and subtitles
+first_title: "&c&lWHAT HAVE YOU DONE?"
+first_subtitle: "&eThe environment is fully damaged!"
+second_title: "&c&lYOUR NEGATIVE ACTIONS"
+second_subtitle: "&eHad an impact on the world..."
+third_title: "&c&lYOU DESERVE"
+third_subtitle: "&eTo live no longer here!"
+
+
+#sounds, set the name of sound to '' if you don't want to have specific sound
+final_disaster_sound: "ENTITY_ENDER_DRAGON_DEATH"
+final_disaster_pitch: 0.5
+final_disaster_volume: 1
+
+warning_sound: "ENTITY_VILLAGER_NO"
+warning_pitch: 1.0
+warning_volume: 1.0
+
+disasters_list_sound: "BLOCK_NOTE_BLOCK_PLING"
+disasters_list_pitch: 1.0
+disasters_list_volume: 1.0
+
+pollution_check_sound: "ENTITY_EVOKER_PREPARE_WOLOLO"
+pollution_check_pitch: 1.0
+pollution_check_volume: 1.0
+
+mask_on_sound: "ENTITY_VILLAGER_YES"
+mask_on_pitch: 1.0
+mask_on_volume: 1.0
